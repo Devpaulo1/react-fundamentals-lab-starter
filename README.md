@@ -1,4 +1,4 @@
-# Aula 09 — Reforçando Conceitos sobre React
+# Aula 08 — Reforçando Conceitos sobre React
 
 Projeto inicial para a atividade prática da disciplina de **Single Page Application (SPA)**.
 
